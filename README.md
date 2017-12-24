@@ -39,6 +39,7 @@ After each circle is drawn, the user can either:
 * Press [D] to decline the crop and restart
 * Or continue to draw test circles
 
+
 ![Alt text](assets/cropcircle.png)
 
 #### Apply Black & White Filter
@@ -47,10 +48,12 @@ After each update to the sliders:
 * Press [A] to accept the filter and continue to the next image
 * Press [D] to decline the filter and restart
 * Or continue to test filter parameters
+
 ![Alt text](assets/bwfilter.gif)
 
 ### Compilation
 After all the images have been processed, the computer resizes them and compiles them to a printer ready sheet.
+
 ![Alt text](assets/printsheet.png)
 
 ## Built With
